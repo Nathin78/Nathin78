@@ -1,49 +1,42 @@
-<h1 align="center">Hi 👋 I'm Nathin A N</h1>
+# 👋 Hello, I'm Nathin
 
-<p align="center">
-Java Full Stack Developer • Spring Boot • React • AI Enthusiast
-</p>
+## Java Full Stack Developer
 
----
+> Turning Ideas into Real Applications 🚀
 
-## 👨‍💻 About Me
+### 🧑 About Me
 
-🎓 Final Year Computer Science Student
+✔ Java Developer
 
-💻 Passionate about Backend Development
+✔ Spring Boot
 
-🌱 Learning Spring Boot, React & AI
+✔ React
 
-🚀 Building Real-world Projects
+✔ REST APIs
 
-📍 Tamil Nadu, India
+✔ MySQL
 
----
-
-## ⚡ Tech Stack
-
-Java • Spring Boot • React • MySQL • HTML • CSS • JavaScript • Git
+✔ DSA Enthusiast
 
 ---
 
-## 🚀 Featured Projects
+### 🛠 Skills
 
-🔹 AI-Based E-Commerce Recommendation System
-
-🔹 Smart Attendance System
-
-🔹 Smart Home Energy Management
-
-🔹 Tourist Safety Monitoring System
+| Backend | Frontend | Database |
+|----------|-----------|-----------|
+| Java | HTML | MySQL |
+| Spring Boot | CSS | SQL |
+| REST API | JavaScript | |
 
 ---
 
-## 📊 GitHub Stats
+### 🚀 Projects
 
-<p align="center">
+| Project | Technology |
+|----------|-------------|
+| AI E-Commerce | React + Node |
+| Smart Attendance | Spring Boot |
+| SHEMS | Java |
+| Tourist Safety | AI |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nathin78&theme=github_dark&show_icons=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathin78&theme=github-dark"/>
-
-</p>
+---
