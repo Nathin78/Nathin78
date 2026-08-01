@@ -1,43 +1,40 @@
-<h1 align="center">🚀 Nathin A N</h1>
+<div align="center">
 
-<h3 align="center">
-Java Full Stack Developer
-</h3>
+# 👋 Hi, I'm Nathin
 
-<p align="center">
+### Java Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&center=true&vCenter=true&lines=Java+Developer;Spring+Boot+Developer;React+Developer;AI+Enthusiast">
-
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;React+Developer;Backend+Developer;Open+to+Work">
 
 ---
 
-## ⚡ Tech
+### 🛠 Tech Stack
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,mysql,git,github,html,css,js"/>
-
-</p>
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,html,css,js,git,github,vscode"/>
 
 ---
 
-## 📊 Stats
+### 📊 GitHub Stats
 
-<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nathin78&show_icons=true&theme=radical"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nathin78&theme=github_dark"/>
-
-</p>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathin78&theme=radical"/>
 
 ---
 
-## 🏆 Achievements
+### 🚀 Top Projects
 
-🏅 Java Developer
-
-🏅 Open Source Contributor
-
-🏅 AI Project Developer
+| 🚀 Project | 💻 Tech |
+|------------|----------|
+| AI E-Commerce | React + Node |
+| Smart Attendance | Spring Boot |
+| SHEMS | Java |
+| Tourist Safety | AI |
 
 ---
+
+### 🌍 Connect
+
+LinkedIn • GitHub • Email
+
+</div>
