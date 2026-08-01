@@ -36,12 +36,6 @@ Building scalable applications, solving real-world problems, and continuously le
 
 🎓 Final Year Computer Science Engineering Student
 
-💻 Passionate about Java Full Stack Development
-
-🌱 Currently learning Spring Boot, React, Docker, Kubernetes, AWS, AI, and System Design
-
-⚡ Strong interest in Backend Development and REST APIs
-
 🤖 Building AI-powered web applications
 
 🚀 Open to Software Development Engineer opportunities
