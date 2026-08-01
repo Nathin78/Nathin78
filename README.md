@@ -16,7 +16,7 @@ Java Full Stack Developer
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,git,github,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=java,mysql,git,github,html,css,js"/>
 
 </p>
 
@@ -33,8 +33,6 @@ Java Full Stack Developer
 ---
 
 ## 🏆 Achievements
-
-🏅 300+ DSA Problems
 
 🏅 Java Developer
 
