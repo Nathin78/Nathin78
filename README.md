@@ -2,30 +2,32 @@
 
 # Hi 👋, I'm Nathin A N
 
-### 🚀 Java Full Stack Developer | Final Year Computer Science Student
+### 🚀 Aspiring Java Full Stack Developer | Final Year Computer Science Student
 
 <p align="center">
 Building scalable applications, solving real-world problems, and continuously learning modern technologies.
 </p>
 
 <p align="center">
-<a href="https://github.com/Nathin78">
 <img src="https://komarev.com/ghpvc/?username=Nathin78&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
 </p>
 
 <p align="center">
+
+<a href="https://portfolio-snowy-two-30.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 
 <a href="https://github.com/Nathin78">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://www.linkedin.com/in/nathin-a-n-51b2852a5/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+<a href="mailto:nathinan30115l@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
@@ -38,21 +40,32 @@ Building scalable applications, solving real-world problems, and continuously le
 
 🎓 Final Year Computer Science Engineering Student
 
-💻 Passionate Java Full Stack Developer
+💻 Passionate about Java Full Stack Development
 
-🌱 Currently learning Spring Boot, React, Docker, Kubernetes, AWS and AI
+🌱 Currently learning Spring Boot, React, Docker, Kubernetes, AWS, AI, and System Design
 
-⚡ Love building scalable backend applications
+⚡ Strong interest in Backend Development and REST APIs
 
-🚀 Looking for Software Development Engineer opportunities
+🤖 Building AI-powered web applications
+
+🚀 Open to Software Development Engineer opportunities
 
 ---
 
 # 💼 Professional Summary
 
-I am a passionate software developer who enjoys designing and developing modern web applications using Java and Spring Boot.
+I am a passionate and self-motivated Java Full Stack Developer with experience in designing and developing scalable web applications using Java, Spring Boot, React, and MySQL.
 
-I enjoy learning new technologies, building real-world projects, solving coding challenges, and continuously improving my software engineering skills.
+I enjoy solving real-world problems, learning new technologies, and building modern software solutions with clean architecture and user-friendly interfaces.
+
+---
+
+### 🌐 Live Demo
+
+https://email-marketing-agent.vercel.app/
+### 🌐 Live Demo
+
+https://portfolio-snowy-two-30.vercel.app/
 
 ---
 
@@ -100,101 +113,30 @@ I enjoy learning new technologies, building real-world projects, solving coding 
 - Git
 - GitHub
 - VS Code
-
----
-
-# 🚀 Featured Projects
-
-## 🛒 AI-Based E-Commerce Recommendation System
-
-Personalized recommendation platform using AI that suggests products based on customer interests and behavior.
-
-**Technology**
-
-- React
-- Node.js
-- MySQL
-
----
-
-## 📍 Smart Attendance System
-
-Geo-location based attendance management system with secure authentication.
-
-### Features
-
-- JWT Authentication
-
-- GPS Attendance
-
-- Admin Dashboard
-
-- Reports
-
-- MySQL Database
-
----
-
-## ⚡ Smart Home Energy Management System
-
-An intelligent energy monitoring system that helps users analyze and optimize electricity consumption.
-
-### Features
-
-- User Authentication
-
-- Dashboard
-
-- Energy Analytics
-
-- Email Notifications
-
-- Excel Reports
-
----
-
-## 🛡 Smart Tourist Safety Monitoring System
-
-AI-powered tourist safety platform with emergency alert system.
-
-### Features
-
-- Geo Fencing
-
-- Emergency Alerts
-
-- Live Tracking
-
-- AI Prediction
-
-- Blockchain Digital Identity
   
 ---
 
 # 🏆 Achievements
 
-🏅 Completed Multiple Full Stack Projects
+🏅 Built multiple Full Stack Applications
 
-🏅 Strong Java Programming Skills
+🏅 Developed AI-powered Projects
 
 🏅 Regular GitHub Contributor
 
-🏅 Problem Solving Enthusiast
+🏅 Strong Object-Oriented Programming Skills
+
+🏅 Daily Problem Solving and DSA Practice
 
 ---
 
 # 💻 Coding Interests
 
+- Java Development
 - REST APIs
-
 - Full Stack Development
-
 - Artificial Intelligence
-
-- Cloud Computing
-
-- Software Architecture
-
+- DevOps
 - Open Source
 
 ---
@@ -203,15 +145,17 @@ AI-powered tourist safety platform with emergency alert system.
 
 ✔ Become a Software Development Engineer
 
-✔ Build Scalable Applications
+✔ Build scalable cloud-native applications
 
 ✔ Contribute to Open Source
 
-✔ Learn Cloud Technologies
-
 ✔ Master System Design
 
+✔ Learn Distributed Systems
+
 ✔ Work on AI Products
+
+✔ Continuously improve problem-solving skills
 
 ---
 
@@ -219,57 +163,13 @@ AI-powered tourist safety platform with emergency alert system.
 
 ☕ Coffee + Java = Productivity
 
-💻 I love solving programming problems
+💻 I enjoy solving challenging programming problems
 
 🚀 Turning ideas into real software is my passion
 
 📚 Learning something new every day
 
-🌍 Technology excites me
-
----
-
-# 📈 My Coding Journey
-
-```
-Started Programming
-
-↓
-
-Learned C
-
-↓
-
-Java Programming
-
-↓
-
-Object Oriented Programming
-
-↓
-
-SQL
-
-↓
-
-Spring Boot
-
-↓
-
-REST APIs
-
-↓
-
-React
-
-↓
-
-Full Stack Development
-
-↓
-
-Software Engineering
-```
+🌍 Technology inspires me to innovate
 
 ---
 
@@ -313,21 +213,29 @@ Software Engineering
 
 # 🌎 Connect With Me
 
-💼 LinkedIn
+📧 **Email**
+
+**nathinan30115l@gmail.com**
+
+💼 **LinkedIn**
 
 https://www.linkedin.com/in/nathin-a-n-51b2852a5/
 
-💻 GitHub
+💻 **GitHub**
 
 https://github.com/Nathin78
 
-📧 Email
+🌐 **Portfolio**
 
-nathinan30115l@gmail.com
+https://portfolio-snowy-two-30.vercel.app/
+
+📧 **AI Email Marketing Agent**
+
+https://email-marketing-agent.vercel.app/
 
 ---
 
-# ⭐ Quote
+# ⭐ Favorite Quote
 
 > **"Success doesn't come from what you do occasionally. It comes from what you do consistently."**
 
@@ -335,10 +243,10 @@ nathinan30115l@gmail.com
 
 <div align="center">
 
-## Thank You for Visiting My Profile ❤️
+## 🚀 Thank You for Visiting My Profile!
 
-⭐ If you like my projects, don't forget to star them.
+If you find my projects interesting, consider ⭐ starring the repositories.
 
-Happy Coding 🚀
+### Happy Coding! 💻✨
 
 </div>
