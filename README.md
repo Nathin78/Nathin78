@@ -8,9 +8,9 @@
 Building scalable applications, solving real-world problems, and continuously learning modern technologies.
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Nathin78&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+</p> -->
 
 <p align="center">
 
@@ -156,58 +156,6 @@ https://portfolio-snowy-two-30.vercel.app/
 ✔ Work on AI Products
 
 ✔ Continuously improve problem-solving skills
-
----
-
-# 💡 Fun Facts
-
-☕ Coffee + Java = Productivity
-
-💻 I enjoy solving challenging programming problems
-
-🚀 Turning ideas into real software is my passion
-
-📚 Learning something new every day
-
-🌍 Technology inspires me to innovate
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nathin78&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Nathin78&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathin78&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nathin78&theme=tokyonight&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathin78&theme=tokyo-night"/>
-
-</p>
 
 ---
 
