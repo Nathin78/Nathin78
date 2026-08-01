@@ -95,12 +95,6 @@ https://email-marketing-agent.vercel.app/
 
 ---
 
-# ⭐ Favorite Quote
-
-> **"Success doesn't come from what you do occasionally. It comes from what you do consistently."**
-
----
-
 <div align="center">
 
 ## 🚀 Thank You for Visiting My Profile!
