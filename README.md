@@ -8,10 +8,6 @@
 Building scalable applications, solving real-world problems, and continuously learning modern technologies.
 </p>
 
-<!-- <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Nathin78&label=Profile%20Views&color=0e75b6&style=flat" />
-</p> -->
-
 <p align="center">
 
 <a href="https://portfolio-snowy-two-30.vercel.app/">
@@ -60,62 +56,6 @@ I enjoy solving real-world problems, learning new technologies, and building mod
 
 ---
 
-### 🌐 Live Demo
-
-https://email-marketing-agent.vercel.app/
-### 🌐 Live Demo
-
-https://portfolio-snowy-two-30.vercel.app/
-
----
-
-# 🛠 Tech Stack
-
-## 💻 Programming Languages
-
-- Java
-- JavaScript
-- SQL
-- HTML5
-- CSS3
-
----
-
-## ⚙ Backend Development
-
-- Spring Boot
-- Spring MVC
-- Spring Security
-- REST APIs
-- JWT Authentication
-- Maven
-
----
-
-## 🎨 Frontend Development
-
-- React.js
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-
----
-
-## 🗄 Database
-
-- MySQL
-
----
-
-## 🧰 Tools
-
-- Git
-- GitHub
-- VS Code
-  
----
-
 # 🏆 Achievements
 
 🏅 Built multiple Full Stack Applications
@@ -129,34 +69,6 @@ https://portfolio-snowy-two-30.vercel.app/
 🏅 Daily Problem Solving and DSA Practice
 
 ---
-
-# 💻 Coding Interests
-
-- Java Development
-- REST APIs
-- Full Stack Development
-- Artificial Intelligence
-- DevOps
-- Open Source
-
----
-
-# 🎯 Career Goals
-
-✔ Become a Software Development Engineer
-
-✔ Build scalable cloud-native applications
-
-✔ Contribute to Open Source
-
-✔ Master System Design
-
-✔ Learn Distributed Systems
-
-✔ Work on AI Products
-
-✔ Continuously improve problem-solving skills
-
 ---
 
 # 🌎 Connect With Me
