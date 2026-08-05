@@ -49,8 +49,6 @@ I enjoy solving real-world problems, learning new technologies, and building mod
 
 🏅 Built multiple Full Stack Applications
 
-🏅 Developed AI-powered Projects
-
 🏅 Regular GitHub Contributor
 
 🏅 Strong Object-Oriented Programming Skills
