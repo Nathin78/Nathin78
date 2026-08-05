@@ -89,5 +89,4 @@ https://email-marketing-agent.vercel.app/
 ## 🚀 Thank You for Visiting My Profile!
 
 If you find my projects interesting, consider ⭐ starring the repositories.
-
 </div>
