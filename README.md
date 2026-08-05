@@ -94,6 +94,4 @@ https://email-marketing-agent.vercel.app/
 
 If you find my projects interesting, consider ⭐ starring the repositories.
 
-### Happy Coding! 💻✨
-
 </div>
