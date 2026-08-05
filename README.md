@@ -74,10 +74,6 @@ I enjoy solving real-world problems, learning new technologies, and building mod
 
 https://www.linkedin.com/in/nathin-a-n-51b2852a5/
 
-💻 **GitHub**
-
-https://github.com/Nathin78
-
 🌐 **Portfolio**
 
 https://portfolio-snowy-two-30.vercel.app/
