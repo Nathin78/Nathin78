@@ -14,7 +14,6 @@ Building scalable applications, solving real-world problems, and continuously le
 <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-<a href="https://github.com/Nathin78">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
