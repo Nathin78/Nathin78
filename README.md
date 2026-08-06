@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Nathin A N
 
-### 🚀 Aspiring Java Full Stack Developer | Final Year Computer Science Student
+### 🚀 Aspiring Full Stack Developer | Final Year Computer Science Student
 
 <p align="center">
 Building scalable applications, solving real-world problems, and continuously learning modern technologies.
