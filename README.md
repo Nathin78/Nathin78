@@ -53,8 +53,6 @@ I enjoy solving real-world problems, learning new technologies, and building mod
 
 🏅 Strong Object-Oriented Programming Skills
 
-🏅 Daily Problem Solving and DSA Practice
-
 ---
 
 # 🌎 Connect With Me
