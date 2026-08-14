@@ -59,7 +59,7 @@ I enjoy solving real-world problems, learning new technologies, and building mod
 
 📧 **Email**
 
-**nathinan30115l@gmail.com**
+**nathinan30115@gmail.com**
 
 💼 **LinkedIn**
 
