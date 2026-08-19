@@ -61,10 +61,6 @@ I enjoy solving real-world problems, learning new technologies, and building mod
 
 **nathinan30115@gmail.com**
 
-💼 **LinkedIn**
-
-
-
 🌐 **Portfolio**
 
 https://portfolio-snowy-two-30.vercel.app/
