@@ -63,7 +63,7 @@ I enjoy solving real-world problems, learning new technologies, and building mod
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/nathin-a-n-51b2852a5/
+
 
 🌐 **Portfolio**
 
