@@ -65,7 +65,6 @@ I enjoy solving real-world problems, learning new technologies, and building mod
 
 https://portfolio-snowy-two-30.vercel.app/
 
-
 ---
 
 <div align="center">
