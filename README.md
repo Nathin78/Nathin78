@@ -47,11 +47,11 @@ I enjoy solving real-world problems, learning new technologies, and building mod
 
 # 🏆 Achievements
 
-🏅 Built multiple Full Stack Applications
+🏅 Built multiple Full Stack Applications.
 
-🏅 Regular GitHub Contributor
+🏅 Regular GitHub Contributor.
 
-🏅 Strong Object-Oriented Programming Skills
+🏅 Strong Object-Oriented Programming Skills.
 
 ---
 
